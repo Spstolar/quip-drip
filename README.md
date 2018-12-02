@@ -1,8 +1,5 @@
 # quip-drip
-Miscellaneous Python scripts.
-
-* Written for Python 3.6.
-* Various code for creating simple visualizations.
+Miscellaneous Python scripts written for Python 3.6.
 
 ## Contents
 1. Simple matplotlib visualizations.
